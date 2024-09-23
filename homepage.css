@@ -1,0 +1,50 @@
+.main{
+    color:rgb(241, 16, 65);
+  
+    gap: 15px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: normal;
+
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+}
+.two{
+    display: flex;
+    gap: 45px;
+    padding-right: 60px;
+}
+.three{
+    padding-left: 200px;
+    background-color: lightblue;
+    color: black;
+  
+    display: flex;
+    margin-top: 200px;
+    width: 1000px;
+    height: 300px;
+
+}
+.four{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    gap: 20px;
+
+
+}
+button{
+    background-color: red;
+    color: white;
+    width: 120px;
+    height: 50px;
+}
+h1{
+    font-size: xx-large;
+    font-style: ;
+}
