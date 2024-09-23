@@ -1,0 +1,47 @@
+.containor1{
+    background-image: url(/travel-nature-mountains.jpg);
+ background-size: cover;
+ height: 1000px;
+    
+    background-repeat: no-repeat;
+
+}
+.containor2{
+    background-color: rgba(37, 36, 40, 0.3);
+    width: 400px;
+    height: 100vh;
+    margin: auto;
+    border-radius: 10px;
+    padding: 30px;
+    
+
+}
+.formclass{
+   margin-left: 100px;
+   
+}
+button{
+    background-color: green;
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 200px;
+    margin-right: 200px;
+    height: 41px;
+}
+input{
+    border-radius: 7px;
+    height:33px ;
+    width: 213px;
+}
+select{
+    width: 170px;
+    border-radius: 10px;
+}
+h2{
+    color: brown;
+    margin-bottom: 15px;
+}
+label{
+    color: cornsilk;
+
+}

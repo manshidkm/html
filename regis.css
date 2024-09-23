@@ -1,0 +1,36 @@
+.containor1{
+    background-image: url(/young-male-standing-top-hill-cloudy-blue-sky.jpg);
+ background-size: cover;
+ height: 1000px;
+    
+    background-repeat: no-repeat;
+
+}
+.containor2{
+    background-color: rgb(0, 0, 255 ,0.3);
+    max-width: 27%;
+    max-height: 35%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 30px;
+    
+
+}
+.formclass{
+   margin-left: 100px;
+   
+}
+button{
+    background-color: green;
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 150px;
+    margin-right: 200px;
+}
+input{
+    border-radius: 7px;
+}
+select{
+    width: 170px;
+    border-radius: 10px;
+}
