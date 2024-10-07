@@ -1,0 +1,97 @@
+.main{
+    background-color: black;
+    width: 1200px;
+    height: 1000px;
+    position: relative;
+}
+.one{
+    transition: width 1s;
+    animation-name: example;
+    animation-duration: 1s;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 79px;
+    bottom: 50px;
+    left: 99px;
+    right: 100px;
+}
+.two{
+    transition: width 1s;
+    animation-name: example;
+    animation-duration: 1s;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    left: 200px;
+    position: absolute;
+    top: 79px;
+    bottom: 50px;
+    left: 440px;
+    right: 100px;
+}
+.three{
+    transition: width 1s;
+    animation-name: example;
+    animation-duration: 1s;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 79px;
+    bottom: 50px;
+    left: 788px;
+    right: 100px;
+    
+}
+.four{
+    transition: width 1s;
+    animation-name: example;
+    animation-duration: 1s;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 321px;
+    bottom: 50px;
+    left: 99px;
+    right: 100px;
+}
+.five{
+    transition: width 1s;
+    animation-name: example;
+    animation-duration: 1s;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 321px;
+    bottom: 50px;
+    left: 790px;
+    right: 100px;
+}
+.six{
+    transition: width 1s;
+    animation-name: example;
+    animation-duration: 1s;
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 321px;
+    bottom: 50px;
+    left: 440px;
+    right: 100px; 
+}
+.one:hover{
+    width: 20px;
+}
+.two:hover{
+    width: 10px;
+
+}
+.three:hover{
+    width: 10px;
+}
+

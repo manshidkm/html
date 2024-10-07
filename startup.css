@@ -1,0 +1,23 @@
+.main{
+    background-image: url(/male-technician-examining-mother-board-with-digital-multimeter.jpg);
+
+}
+.one{
+    color:rgb(241, 16, 65);
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: normal;
+}
+.main2{
+    background-color: white;
+
+}
+img{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+}

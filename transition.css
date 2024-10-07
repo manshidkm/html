@@ -1,0 +1,22 @@
+.main{
+    background-color: red;
+    color: azure;
+}
+.one{
+    color: white;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: width 2s;
+    animation-name: example;
+    animation-duration: 4s;
+}
+div:hover{
+  width: 300px;
+}
+@keyframes example {
+    from { background-color: red;}
+    to {background-color: yellow;}
+}

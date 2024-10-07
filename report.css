@@ -1,0 +1,177 @@
+.main{
+    background-color: black;
+    width: 1300px;
+    height: 1000px;
+    position: relative;
+
+}
+.child1{
+    background-color: darkblue;
+    width: 190px;
+    height: 399px;
+    position: absolute;
+    top: 79px;
+    bottom: 50px;
+    left: 99px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+
+}
+.text{
+    background-color: blueviolet;
+    color: white;
+    width: 190px;
+    height: 261px;
+    top: 79px;
+    bottom: 50px;
+    left: 200px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.textt{
+    color: white;
+    text-align: start;
+    left: 40px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.mist{
+    color: chartreuse;
+}
+.child2{
+    background-color: yellowgreen;
+    width: 183px;
+    height: 180px;
+    position: absolute;
+    top: 79px;
+    bottom: 50px;
+    left: 328px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.child3{
+    background-color: aqua;
+    width: 183px;
+    height: 170px;
+    position: absolute;
+    top: 80px;
+    bottom: 50px;
+    left: 564px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.child4{
+    background-color: orangered;
+    width: 183px;
+    height: 170px;
+    position: absolute;
+    top: 83px;
+    bottom: 50px;
+    left: 802px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px; 
+}
+.child5{
+    background-color: yellow;
+    width: 183px;
+    height: 170px;
+    position: absolute; 
+    top: 285px;
+    bottom: 50px;
+    left: 330px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.child6{
+    background-color: blueviolet;
+    width: 183px;
+    height: 170px;
+    position: absolute; 
+    top: 287px;
+    bottom: 50px;
+    left: 564px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.child7{
+    background-color: yellowgreen;
+    width: 183px;
+    height: 170px;
+    position: absolute;
+    top: 287px;
+    bottom: 50px;
+    left: 802px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.type{
+    background-color: darkblue;
+    color: white;
+    width: 183px;
+    height: 145px;
+    position: absolute;
+    top: 47px;
+    bottom: 50px;
+    left: 0px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+img{
+    stroke-width: 30px;
+    
+}
+.top{
+    position: absolute;
+    top: -12px;
+    bottom: 50px;
+    left: 12px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.toppp{
+    position: absolute;
+    top: 293px;
+    bottom: 50px;
+    left: 12px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    gap: 30px;
+}
+h5{
+    text-align: start;
+}
+.hello{
+    position: absolute;
+    top: 17px;
+    bottom: 50px;
+    left: 12px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.kooy{
+    position: absolute;
+    top: 97px;
+    bottom: 50px;
+    left: 12px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}

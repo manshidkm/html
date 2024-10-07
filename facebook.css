@@ -1,0 +1,63 @@
+.one{
+    width: 70px;
+    height: 70px;
+    margin: 250px;
+    padding: 50pxpx;
+
+
+}
+h1{
+    color: blue;
+}
+h3{
+    color: black;
+
+}
+.two{
+   
+    background-color: aqua;
+    margin-top: 158px;
+    width: 446px;
+    height: 356px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+button{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
+.haa{
+    background-color: goldenrod;
+    color: white;
+}
+.three{
+    
+}
+.main{
+    background-color: white;
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    
+}
+button{
+    width: 173px;
+    height: 33px;
+    padding: 14px;
+    
+}
+input{
+    margin-top: 10px;
+    width: 2o6px;
+    height: 41px;
+}
+label{
+    padding: 65px;
+}
+
+
+

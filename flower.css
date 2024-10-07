@@ -1,0 +1,57 @@
+.main{
+    background-color: black;
+    position: relative;
+    width: 10000px;
+    height: 1000px;
+}
+.child1{
+    background-color: white;
+    color: black;
+    width: 350px;
+    height: 440px;
+    position: absolute;
+    top: 150px;
+    bottom: 50px;
+    left: 100px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.child2{
+    background-color: white;
+    color: black;
+    width: 350px;
+    height: 390px;
+    position: absolute;
+    top: 130px;
+    bottom: 50px;
+    left: 580px;
+    right: 50px;
+
+}
+.child3{
+    background-color: white;
+    color: black;
+    width: 350px;
+    height: 392px;
+    position: absolute;
+    top: 150px;
+    bottom: 50px;
+    left: 1050px;
+    right: 50px;
+}
+.tag{
+    background-color: red;
+    height: 30px;
+    width: 330px;
+    display: flex;
+    gap: 145px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.text{
+    text-align: center;
+}
+.picture{
+    border-radius: 10px;
+}

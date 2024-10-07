@@ -21,13 +21,15 @@
 }
 .three{
     padding-left: 200px;
-    background-color: lightblue;
+    background-color: rgb(244, 248, 249);
     color: black;
   
     display: flex;
     margin-top: 200px;
     width: 1000px;
     height: 300px;
+    stroke-width: 30px;
+    padding-left: 90px;
 
 }
 .four{

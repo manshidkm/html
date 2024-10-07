@@ -1,0 +1,43 @@
+.main{
+    color: white;
+    background-color: black;
+    width: 1300px;
+    height: 25px;
+     display: flex;
+    gap: 50px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: normal;
+    top: 3px;
+   
+
+    
+}
+.drop{
+    position: relative;
+    color: white;
+   
+}
+li{
+    list-style-type: none;
+
+}
+
+.dropdown{
+    display: none;
+    position: absolute;
+    background-color: black;
+    width: 130px;
+    height: 90px;
+    gap: 10px;
+    padding: 10px;
+    top: 10px;
+}
+.drop:hover .dropdown{
+    display: block;
+}
+li:hover {
+    background-color: azure;
+    color: black;
+}
